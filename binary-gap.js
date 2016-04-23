@@ -25,6 +25,4 @@ function solution(N) {
     return longestBinaryGap;
 }
 
-(function () {
-    console.log(solution(51712));
-})();
+console.log(solution(51712));

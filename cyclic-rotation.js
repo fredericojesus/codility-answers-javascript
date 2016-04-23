@@ -12,6 +12,4 @@ function solution(A, K) {
     return A;
 }
 
-(function () {
-    console.log(solution([10, 1000, 55, 10, 3, 5], 2));
-})();
+console.log(solution([10, 1000, 55, 10, 3, 5], 2));
