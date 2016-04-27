@@ -29,4 +29,4 @@ function solution(A) {
     return xor_sum ^ (A.length + 1);
 }
 
-console.log(solution([]));
+console.log(solution([2, 3, 1, 5]));
